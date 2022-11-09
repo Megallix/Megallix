@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Megallix
+- 👋 Hi, I’m Yvonne
 - 👀 I’m interested in Game Development and Music Production
 - 🌱 I’m currently learning C#
 
